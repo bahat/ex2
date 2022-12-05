@@ -17,9 +17,9 @@ class Player
 
     private:
         std::string m_name;
-        int m_level;
-        int m_force;
         int m_maxHP;
+        int m_force;
+        int m_level;
         int m_HP;
         int m_coins;
     public:
