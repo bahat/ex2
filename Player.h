@@ -14,6 +14,7 @@ class Player
     static const int DEFAULT_LEVEL = 1;
     static const int DEFAULT_COINS = 0;
     static const int MAX_LEVEL = 10;
+    static const int ZERO = 0;
 
     private:
         std::string m_name;

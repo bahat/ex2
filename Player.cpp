@@ -46,7 +46,7 @@ Player Player::operator=(const Player &toImplement) {
 void Player::printInfo()
 {
     char * nameInChar = new char[m_name.length()+1];
-    strcpy(nameInChar, m_name.c_str());
+    std::strcpy(nameInChar, m_name.c_str());
     printPlayerInfo(nameInChar, m_level, m_force,m_HP,m_coins);
     delete[] nameInChar;
 }
@@ -68,7 +68,7 @@ int Player::getLevel() {
 }
 
 void Player::buff(int buffBy) {
-    if(buffBy<=NULL)
+    if(buffBy<=ZERO)
     {
 
     }
@@ -79,7 +79,7 @@ void Player::buff(int buffBy) {
 }
 
 void Player::heal(int healBy) {
-    if(healBy<=NULL)
+    if(healBy<=ZERO)
     {
 
     }
@@ -94,7 +94,7 @@ void Player::heal(int healBy) {
 }
 
 void Player::damage(int damageBy) {
-    if(damageBy<=NULL)
+    if(damageBy<=ZERO)
     {
 
     }
@@ -112,12 +112,12 @@ void Player::damage(int damageBy) {
 }
 
 bool Player::isKnockedOut() {
-    assert(m_HP>=0);
-    return m_HP==0;
+    assert(m_HP>=ZERO);
+    return m_HP==ZERO;
 }
 
 void Player::addCoins(int toAdd) {
-    if(toAdd<=0)
+    if(toAdd<=ZERO)
     {
 
     }
@@ -128,7 +128,7 @@ void Player::addCoins(int toAdd) {
 }
 
 bool Player::pay(int price) {
-    if(price<=0)
+    if(price<=ZERO)
     {
         return true;
     }
