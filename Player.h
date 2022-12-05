@@ -6,7 +6,7 @@
 
 #include <cstring>
 #include <iostream>
-#include "utilities.h"
+#include "./utilities.h"
 class Player
 {
     static const int DEFAULT_MAX_HP = 100;
