@@ -40,13 +40,14 @@ Player Player::operator=(const Player &toImplement) {
         m_HP=toImplement.m_maxHP;
         m_coins=toImplement.m_coins;
         m_level=toImplement.m_level;
+        return *this;
     }
 }
 
 void Player::printInfo()
 {
     char * nameInChar = new char[m_name.length()+1];
-    std::strcpy(nameInChar, m_name.c_str());
+    std::string strcpy(nameInChar, m_name.c_str());
     printPlayerInfo(nameInChar, m_level, m_force,m_HP,m_coins);
     delete[] nameInChar;
 }
@@ -112,7 +113,6 @@ void Player::damage(int damageBy) {
 }
 
 bool Player::isKnockedOut() {
-    assert(m_HP>=ZERO);
     return m_HP==ZERO;
 }
 

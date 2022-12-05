@@ -4,8 +4,8 @@
 #ifndef EX2_PLAYER_H
 #define EX2_PLAYER_H
 
-
-#include <string>
+#include <cstring>
+#include <iostream>
 #include "utilities.h"
 class Player
 {
