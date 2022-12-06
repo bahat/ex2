@@ -5,7 +5,7 @@
 
 #include <utility>
 
-Player::Player(std::string name, int maxHP, int force):
+Player::Player(const std::string name, int maxHP, int force):
     m_name(name),
     m_maxHP(maxHP),
     m_force(force),
@@ -27,22 +27,8 @@ Player::Player(std::string name, int maxHP, int force):
 }
 Player::Player(const Player &toCopy)=default;
 Player::~Player()=default;
-Player Player::operator=(const Player &toImplement) {
-    if(this==&toImplement)
-    {
-        return *this;
-    }
-    else
-    {
-        m_name=toImplement.m_name;
-        m_maxHP=toImplement.m_maxHP;
-        m_force=toImplement.m_force;
-        m_HP=toImplement.m_maxHP;
-        m_coins=toImplement.m_coins;
-        m_level=toImplement.m_level;
-        return *this;
-    }
-}
+Player& Player::operator=(const Player &toImplement) = default;
+
 
 void Player::printInfo()
 {
@@ -64,7 +50,7 @@ void Player::levelUp()
     }
 }
 
-int Player::getLevel() {
+int Player::getLevel() const {
     return m_level;
 }
 
@@ -112,7 +98,7 @@ void Player::damage(int damageBy) {
     }
 }
 
-bool Player::isKnockedOut() {
+bool Player::isKnockedOut() const {
     return m_HP==ZERO;
 }
 
@@ -151,6 +137,9 @@ int Player::getAttackStrength() {
 }
 
 
+int Player::getMaxLevel() {
+    return MAX_LEVEL;
+}
 
 
 

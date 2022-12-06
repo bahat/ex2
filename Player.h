@@ -25,11 +25,11 @@ class Player
         int m_level;
     public:
         
-        /// @brief Constructor recieves name, maximal HP and force, other as default
+        /// @brief Constructor receives name, maximal HP and force, other as default
         /// @param name - Player name to be initialized
         /// @param maxHP - Maximal HP of player
         /// @param force - Starting force of player (can be buffed later)
-        Player(std::string name, int maxHP=DEFAULT_MAX_HP, int force=DEFAULT_FORCE);
+        Player(const std::string name, int maxHP=DEFAULT_MAX_HP, int force=DEFAULT_FORCE);
         /// @brief Constructor which initializes new Player object with values copied from an existing Player
         /// @param toCopy - Player object to copy values from
         Player(Player const &toCopy);
@@ -38,14 +38,14 @@ class Player
         /// @brief Operator overloading of equals sign- copies values from paramater to an existing Player
         /// @param toImplement - Player to copy values from 
         /// @return Player object with values copied from parameter Player
-        Player operator = (Player const &toImplement);
+        Player& operator = (const Player &toImplement);
         /// @brief Prints Player info according to format specified in utilities.h
         void printInfo();
         /// @brief Increases level by 1, if level is maximal, does nothing
         void levelUp();
         /// @brief Gets current level of Player
         /// @return Returns Player's current level
-        int getLevel();
+        int getLevel() const;
         /// @brief Increments force
         /// @param buffBy- Determines by how much player force shall be increased
         void buff(int buffBy);
@@ -57,7 +57,7 @@ class Player
         void damage(int damageBy);
         /// @brief Checks if HP is 0 <=> player is knocked out
         /// @return true if knocked out, false else
-        bool isKnockedOut();
+        bool isKnockedOut() const;
         /// @brief Adds coins to player
         /// @param toAdd Determines how many coins should be added do player
         void addCoins(int toAdd);
@@ -68,6 +68,9 @@ class Player
         /// @brief Gets current player strength
         /// @return strength of player which is defined as level+force
         int getAttackStrength();
+        ///@brief Gets level needed to win
+        ///@return const max level
+        static int getMaxLevel();
 
 };
 
