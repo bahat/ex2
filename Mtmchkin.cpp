@@ -19,9 +19,8 @@ void Mtmchkin::playNextCard()
         {
             m_currentCardIndex=0;
         }
-        Card currentCard = m_cardsArray[m_currentCardIndex];
-        currentCard.Card::printInfo();
-        currentCard.applyEncounter(m_player);
+        m_cardsArray[m_currentCardIndex].Card::printInfo();
+        m_cardsArray[m_currentCardIndex].applyEncounter(m_player);
         m_player.printInfo();
         m_currentCardIndex++;
     }
