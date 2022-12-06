@@ -32,11 +32,9 @@ Player& Player::operator=(const Player &toImplement) = default;
 
 void Player::printInfo()
 {
-    char * nameInChar = new char[m_name.length()+1];
-    std::strcpy(nameInChar, m_name.c_str());
-    printPlayerInfo(nameInChar, m_level, m_force,m_HP,m_coins);
-    delete[] nameInChar;
+    printPlayerInfo(m_name.std::string::c_str(), m_level, m_force,m_HP,m_coins);
 }
+
 
 void Player::levelUp()
 {
