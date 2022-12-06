@@ -3,18 +3,18 @@
 //
 #ifndef EX2_PLAYER_H
 #define EX2_PLAYER_H
-
+// ahmad changed constant numbers to be public and not privat for use in Card::applyEncounter
 #include <cstring>
 #include <iostream>
 #include "./utilities.h"
 class Player
-{
-    static const int DEFAULT_MAX_HP = 100;
-    static const int DEFAULT_FORCE = 5;
-    static const int DEFAULT_LEVEL = 1;
-    static const int DEFAULT_COINS = 0;
-    static const int MAX_LEVEL = 10;
-    static const int ZERO = 0;
+{   public:
+        static const int DEFAULT_MAX_HP = 100;
+        static const int DEFAULT_FORCE = 5;
+        static const int DEFAULT_LEVEL = 1;
+        static const int DEFAULT_COINS = 0;
+        static const int MAX_LEVEL = 10;
+        static const int ZERO = 0;
 
     private:
         std::string m_name;
