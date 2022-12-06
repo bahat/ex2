@@ -65,25 +65,25 @@ void Card::printInfo() const
 {
 
     // Battle card
-    if((int)m_effect==(int)CardType::Battle)
+    if(m_effect==CardType::Battle)
     {
         printBattleCardInfo(m_stats);
         return;
     }
     //Heal card
-    if((int)m_effect==(int)CardType::Heal)
+    if(m_effect==CardType::Heal)
     {
         printHealCardInfo(m_stats);
         return;
     }
     //Buff card
-    if((int)m_effect==(int)CardType::Buff)
+    if(m_effect==CardType::Buff)
     {
         printBuffCardInfo(m_stats);
         return;
     }
     //Treasure card
-    if((int)m_effect==(int)CardType::Treasure)
+    if(m_effect==CardType::Treasure)
     {
         printTreasureCardInfo(m_stats);
         return;
