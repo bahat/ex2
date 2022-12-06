@@ -6,7 +6,6 @@
 #define EX2_GAME_H
 #include "Card.h"
 #include <iostream>
-//kjdfkjdfkjdkfkd
 /*
  * GameStatus:
  * MidGame - The game is still active and the player continues to encounter cards.
@@ -60,7 +59,10 @@ public:
     //TODO: complete the Mtmchkin class.
 
 private:
-    //TODO: complete the Mtmchkin class.
+    Player m_player;
+    int m_numOfCards;
+    const Card* m_cardsArray;
+    int m_currentCardIndex;
 
 };
 
