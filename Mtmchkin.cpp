@@ -15,7 +15,7 @@ void Mtmchkin::playNextCard()
 {
     if(!isOver())
     {
-        if(m_currentCardIndex>=m_numOfCards)
+        if(m_currentCardIndex==m_numOfCards)
         {
             m_currentCardIndex=0;
         }
