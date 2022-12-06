@@ -37,6 +37,7 @@ public:
     */
     void playNextCard();
 
+    Card getCurrentCard();
 
     /*
      *  Check if the game ended:

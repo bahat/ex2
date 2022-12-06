@@ -19,11 +19,15 @@ void Mtmchkin::playNextCard()
         {
             m_currentCardIndex=0;
         }
-        m_cardsArray[m_currentCardIndex].Card::printInfo();
-        m_cardsArray[m_currentCardIndex].applyEncounter(m_player);
+        getCurrentCard().printInfo();
+        getCurrentCard().applyEncounter(m_player);
         m_player.printInfo();
         m_currentCardIndex++;
     }
+}
+
+Card Mtmchkin::getCurrentCard() {
+    return m_cardsArray[m_currentCardIndex];
 }
 
 bool Mtmchkin::isOver() const
