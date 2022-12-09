@@ -35,7 +35,6 @@ void Player::printInfo()
     printPlayerInfo(m_name.std::string::c_str(), m_level, m_force,m_HP,m_coins);
 }
 
-
 void Player::levelUp()
 {
     if(m_level>=Player::MAX_LEVEL)
