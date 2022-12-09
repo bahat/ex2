@@ -1,0 +1,272 @@
+Player Details:
+Name: glass
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: glass
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: glass
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 13
+------------------------
+Player Details:
+Name: glass
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: glass
+Level: 1
+Force: 5
+HP: 80
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: glass
+Level: 1
+Force: 5
+HP: 63
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: glass
+Level: 1
+Force: 5
+HP: 63
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 2
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 63
+Coins: 2
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 63
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 63
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 63
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 13
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 63
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 43
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 26
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: glass
+Level: 2
+Force: 5
+HP: 26
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 2
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: glass
+Level: 3
+Force: 5
+HP: 26
+Coins: 4
+------------------------
+Player Details:
+Name: glass
+Level: 3
+Force: 5
+HP: 26
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: glass
+Level: 3
+Force: 5
+HP: 26
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: glass
+Level: 3
+Force: 5
+HP: 26
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 13
+------------------------
+Player Details:
+Name: glass
+Level: 3
+Force: 5
+HP: 26
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: glass
+Level: 3
+Force: 5
+HP: 6
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: glass
+Level: 3
+Force: 5
+HP: 0
+Coins: 1
+------------------------
+The player was defeated... :(

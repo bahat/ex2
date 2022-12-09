@@ -1,0 +1,34 @@
+Player Details:
+Name: Spain
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Spain
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 3
+Damage taken (on loss): 97543
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Spain
+Level: 1
+Force: 5
+HP: 0
+Coins: 3
+------------------------
+The player was defeated... :(

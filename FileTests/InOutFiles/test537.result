@@ -1,0 +1,221 @@
+Player Details:
+Name: Dog
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 2
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 19
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Dog
+Level: 2
+Force: 5
+HP: 97
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 3
+Damage taken (on loss): 153424
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 3
+Force: 5
+HP: 97
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Dog
+Level: 3
+Force: 5
+HP: 97
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 10
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 4
+Force: 5
+HP: 97
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 14
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 5
+Force: 5
+HP: 97
+Coins: 37
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Dog
+Level: 5
+Force: 5
+HP: 97
+Coins: 52
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 19
+------------------------
+Player Details:
+Name: Dog
+Level: 5
+Force: 5
+HP: 97
+Coins: 71
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Dog
+Level: 5
+Force: 5
+HP: 97
+Coins: 57
+------------------------
+Player Details:
+Name: Dog
+Level: 5
+Force: 5
+HP: 97
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 6
+Force: 5
+HP: 97
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 19
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 7
+Force: 5
+HP: 97
+Coins: 79
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 3
+Damage taken (on loss): 153424
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 8
+Force: 5
+HP: 97
+Coins: 82
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Dog
+Level: 8
+Force: 5
+HP: 97
+Coins: 89
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 10
+Damage taken (on loss): 2
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 9
+Force: 5
+HP: 97
+Coins: 99
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 14
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Dog
+Level: 10
+Force: 5
+HP: 97
+Coins: 113
+------------------------
+The player has won! :D

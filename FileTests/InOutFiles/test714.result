@@ -1,0 +1,527 @@
+Player Details:
+Name: Trespass
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 16
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 2
+Force: 5
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 30
+Cost: 8
+------------------------
+Player Details:
+Name: Trespass
+Level: 2
+Force: 35
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 8
+------------------------
+Player Details:
+Name: Trespass
+Level: 2
+Force: 48
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Trespass
+Level: 2
+Force: 51
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 13
+------------------------
+Player Details:
+Name: Trespass
+Level: 2
+Force: 51
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Trespass
+Level: 2
+Force: 51
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 51
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 163
+Cost: 16
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 214
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 4
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 214
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 25
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 214
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 214
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 214
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 214
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Trespass
+Level: 3
+Force: 214
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 1
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 4
+Force: 214
+HP: 100
+Coins: 65
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: Trespass
+Level: 4
+Force: 229
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Trespass
+Level: 4
+Force: 229
+HP: 100
+Coins: 73
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 13
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 5
+Force: 229
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Trespass
+Level: 5
+Force: 229
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 5
+------------------------
+Player Details:
+Name: Trespass
+Level: 5
+Force: 234
+HP: 100
+Coins: 81
+------------------------
+Player Details:
+Name: Trespass
+Level: 5
+Force: 234
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 16
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 6
+Force: 234
+HP: 100
+Coins: 97
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 30
+Cost: 8
+------------------------
+Player Details:
+Name: Trespass
+Level: 6
+Force: 264
+HP: 100
+Coins: 89
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 8
+------------------------
+Player Details:
+Name: Trespass
+Level: 6
+Force: 277
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: Trespass
+Level: 6
+Force: 280
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 13
+------------------------
+Player Details:
+Name: Trespass
+Level: 6
+Force: 280
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Trespass
+Level: 6
+Force: 280
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 13
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 280
+HP: 100
+Coins: 84
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 163
+Cost: 16
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 443
+HP: 100
+Coins: 68
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 4
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 443
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 25
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 443
+HP: 100
+Coins: 89
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 443
+HP: 100
+Coins: 103
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 443
+HP: 100
+Coins: 104
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 443
+HP: 100
+Coins: 108
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Trespass
+Level: 7
+Force: 443
+HP: 100
+Coins: 128
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 1
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 8
+Force: 443
+HP: 100
+Coins: 129
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 5
+------------------------
+Player Details:
+Name: Trespass
+Level: 8
+Force: 458
+HP: 100
+Coins: 124
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: Trespass
+Level: 8
+Force: 458
+HP: 100
+Coins: 137
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 13
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 9
+Force: 458
+HP: 100
+Coins: 150
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Trespass
+Level: 9
+Force: 458
+HP: 100
+Coins: 150
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 5
+------------------------
+Player Details:
+Name: Trespass
+Level: 9
+Force: 463
+HP: 100
+Coins: 145
+------------------------
+Player Details:
+Name: Trespass
+Level: 9
+Force: 463
+HP: 100
+Coins: 145
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 16
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Trespass
+Level: 10
+Force: 463
+HP: 100
+Coins: 161
+------------------------
+The player has won! :D

@@ -1,0 +1,811 @@
+Player Details:
+Name: a_corkscrew
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 1
+Force: 5
+HP: 100
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 6
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 1
+Force: 5
+HP: 82
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 5
+HP: 82
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 10
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 5
+HP: 82
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 1793
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 5
+HP: 82
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 5
+HP: 82
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 12
+HP: 82
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 12
+HP: 82
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 12
+HP: 82
+Coins: 31
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 62
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 12
+HP: 82
+Coins: 93
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 82
+Coins: 80
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 82
+Coins: 75
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 82
+Coins: 75
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 91
+Coins: 71
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 93
+Coins: 51
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 93
+Coins: 51
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 93
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 6
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 2
+Force: 14
+HP: 75
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 14
+HP: 75
+Coins: 55
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 10
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 14
+HP: 76
+Coins: 45
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 1793
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 14
+HP: 76
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 14
+HP: 76
+Coins: 53
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 21
+HP: 76
+Coins: 49
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 21
+HP: 76
+Coins: 54
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 21
+HP: 76
+Coins: 72
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 62
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 21
+HP: 76
+Coins: 134
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 23
+HP: 76
+Coins: 121
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 23
+HP: 76
+Coins: 116
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 23
+HP: 76
+Coins: 116
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 23
+HP: 85
+Coins: 112
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 3
+Force: 23
+HP: 87
+Coins: 92
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 4
+Force: 23
+HP: 87
+Coins: 98
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 4
+Force: 23
+HP: 87
+Coins: 101
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 6
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 5
+Force: 23
+HP: 87
+Coins: 107
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 23
+HP: 87
+Coins: 108
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 10
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 23
+HP: 88
+Coins: 98
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 1793
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 23
+HP: 88
+Coins: 98
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 23
+HP: 88
+Coins: 106
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 30
+HP: 88
+Coins: 102
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 30
+HP: 88
+Coins: 107
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 30
+HP: 88
+Coins: 125
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 62
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 30
+HP: 88
+Coins: 187
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 32
+HP: 88
+Coins: 174
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 32
+HP: 88
+Coins: 169
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 32
+HP: 88
+Coins: 169
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 32
+HP: 97
+Coins: 165
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 6
+Force: 32
+HP: 99
+Coins: 145
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 7
+Force: 32
+HP: 99
+Coins: 151
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 7
+Force: 32
+HP: 99
+Coins: 154
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 6
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 8
+Force: 32
+HP: 99
+Coins: 160
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 1
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 32
+HP: 99
+Coins: 161
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 10
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 32
+HP: 100
+Coins: 151
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 16
+Cost: 1793
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 32
+HP: 100
+Coins: 151
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 32
+HP: 100
+Coins: 159
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 7
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 39
+HP: 100
+Coins: 155
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 39
+HP: 100
+Coins: 160
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 39
+HP: 100
+Coins: 178
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 62
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 39
+HP: 100
+Coins: 240
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 41
+HP: 100
+Coins: 227
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 5
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 41
+HP: 100
+Coins: 222
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 41
+HP: 100
+Coins: 222
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 4
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 41
+HP: 100
+Coins: 218
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 9
+Force: 41
+HP: 100
+Coins: 198
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 6
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_corkscrew
+Level: 10
+Force: 41
+HP: 100
+Coins: 204
+------------------------
+The player has won! :D

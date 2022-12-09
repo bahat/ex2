@@ -1,0 +1,222 @@
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 11
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 14
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 4
+Damage taken (on loss): 67
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 33
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 33
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 20
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 33
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 5
+HP: 33
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 4
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 8
+HP: 33
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 18
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 8
+HP: 34
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 8
+HP: 34
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 12
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 8
+HP: 35
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: 10
+Level: 1
+Force: 8
+HP: 35
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 19
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 10
+Level: 2
+Force: 8
+HP: 35
+Coins: 27
+------------------------
+Player Details:
+Name: 10
+Level: 2
+Force: 8
+HP: 35
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 11
+------------------------
+Player Details:
+Name: 10
+Level: 2
+Force: 14
+HP: 35
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: 10
+Level: 2
+Force: 14
+HP: 35
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 14
+------------------------
+Player Details:
+Name: 10
+Level: 2
+Force: 14
+HP: 45
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 4
+Damage taken (on loss): 67
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: 10
+Level: 2
+Force: 14
+HP: 0
+Coins: 13
+------------------------
+The player was defeated... :(

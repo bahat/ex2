@@ -1,0 +1,433 @@
+Player Details:
+Name: seniors
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: seniors
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 16
+------------------------
+Player Details:
+Name: seniors
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: seniors
+Level: 1
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: seniors
+Level: 1
+Force: 5
+HP: 82
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 106
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 5
+HP: 82
+Coins: 119
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 36
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 5
+HP: 46
+Coins: 119
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 5
+HP: 46
+Coins: 137
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 4
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 11
+HP: 46
+Coins: 133
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 11
+HP: 34
+Coins: 133
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 11
+HP: 34
+Coins: 133
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 11
+HP: 53
+Coins: 131
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 16
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 11
+HP: 57
+Coins: 115
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: seniors
+Level: 2
+Force: 11
+HP: 57
+Coins: 128
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 3
+Force: 11
+HP: 57
+Coins: 131
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 106
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 4
+Force: 11
+HP: 57
+Coins: 237
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 36
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: seniors
+Level: 4
+Force: 11
+HP: 21
+Coins: 237
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: seniors
+Level: 4
+Force: 11
+HP: 21
+Coins: 255
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 4
+------------------------
+Player Details:
+Name: seniors
+Level: 4
+Force: 17
+HP: 21
+Coins: 251
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 5
+Force: 17
+HP: 21
+Coins: 251
+------------------------
+Player Details:
+Name: seniors
+Level: 5
+Force: 17
+HP: 21
+Coins: 251
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: seniors
+Level: 5
+Force: 17
+HP: 40
+Coins: 249
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 16
+------------------------
+Player Details:
+Name: seniors
+Level: 5
+Force: 17
+HP: 44
+Coins: 233
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: seniors
+Level: 5
+Force: 17
+HP: 44
+Coins: 246
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 6
+Force: 17
+HP: 44
+Coins: 249
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 106
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 7
+Force: 17
+HP: 44
+Coins: 355
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 0
+Damage taken (on loss): 36
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 8
+Force: 17
+HP: 44
+Coins: 355
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: seniors
+Level: 8
+Force: 17
+HP: 44
+Coins: 373
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 4
+------------------------
+Player Details:
+Name: seniors
+Level: 8
+Force: 23
+HP: 44
+Coins: 369
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 9
+Force: 23
+HP: 44
+Coins: 369
+------------------------
+Player Details:
+Name: seniors
+Level: 9
+Force: 23
+HP: 44
+Coins: 369
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 2
+------------------------
+Player Details:
+Name: seniors
+Level: 9
+Force: 23
+HP: 63
+Coins: 367
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 16
+------------------------
+Player Details:
+Name: seniors
+Level: 9
+Force: 23
+HP: 67
+Coins: 351
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: seniors
+Level: 9
+Force: 23
+HP: 67
+Coins: 364
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: seniors
+Level: 10
+Force: 23
+HP: 67
+Coins: 367
+------------------------
+The player has won! :D

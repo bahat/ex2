@@ -1,0 +1,513 @@
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 4
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 7
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 78
+Coins: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 4
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 78
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 68
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 68
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 56
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 7
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 56
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 56
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 56
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 56
+Coins: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 56
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 4
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 56
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 46
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 46
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 34
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 7
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 34
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 34
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 34
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 34
+Coins: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 34
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 4
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 34
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 24
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 24
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 12
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 9
+Cost: 7
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 12
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 12
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 12
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 12
+Coins: 0
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 12
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 4
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 12
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 2
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 7
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 2
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 4
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: rabbit_test
+Level: 1
+Force: 5
+HP: 0
+Coins: 0
+------------------------
+The player was defeated... :(

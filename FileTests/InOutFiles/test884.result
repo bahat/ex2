@@ -1,0 +1,841 @@
+Player Details:
+Name: Orleans
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Orleans
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 11
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 14
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 100
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 10
+Damage taken (on loss): 16
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 84
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 16
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 84
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 84
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 685
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 69
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 50
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 15
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 50
+Coins: 10
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 7
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 61
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 4
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 5
+HP: 61
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 85
+Cost: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 90
+HP: 61
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 20
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 90
+HP: 61
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 103
+HP: 61
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 28
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 103
+HP: 61
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 2
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 103
+HP: 68
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 122
+HP: 68
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 18
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 137
+HP: 68
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 137
+HP: 68
+Coins: 4
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 137
+HP: 68
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Orleans
+Level: 2
+Force: 137
+HP: 68
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 3
+Force: 137
+HP: 68
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 11
+------------------------
+Player Details:
+Name: Orleans
+Level: 3
+Force: 137
+HP: 73
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 14
+------------------------
+Player Details:
+Name: Orleans
+Level: 3
+Force: 157
+HP: 73
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 10
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 4
+Force: 157
+HP: 73
+Coins: 10
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 16
+------------------------
+Player Details:
+Name: Orleans
+Level: 4
+Force: 157
+HP: 73
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 4
+Force: 157
+HP: 73
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 685
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Orleans
+Level: 4
+Force: 157
+HP: 58
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 157
+HP: 58
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 15
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 157
+HP: 61
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 7
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 157
+HP: 61
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 4
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 157
+HP: 61
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 85
+Cost: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 242
+HP: 61
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 20
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 242
+HP: 61
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 255
+HP: 61
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 28
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 255
+HP: 61
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 2
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 255
+HP: 68
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 274
+HP: 68
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 18
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 289
+HP: 68
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 289
+HP: 68
+Coins: 3
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 289
+HP: 68
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Orleans
+Level: 5
+Force: 289
+HP: 68
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 6
+Force: 289
+HP: 68
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 11
+------------------------
+Player Details:
+Name: Orleans
+Level: 6
+Force: 289
+HP: 73
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 14
+------------------------
+Player Details:
+Name: Orleans
+Level: 6
+Force: 289
+HP: 73
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 10
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 7
+Force: 289
+HP: 73
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 16
+------------------------
+Player Details:
+Name: Orleans
+Level: 7
+Force: 304
+HP: 73
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 7
+Force: 304
+HP: 73
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 685
+Profit (on win): 1
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Orleans
+Level: 7
+Force: 304
+HP: 58
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 304
+HP: 58
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 15
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 304
+HP: 58
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 7
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 304
+HP: 69
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 4
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 318
+HP: 69
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 85
+Cost: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 403
+HP: 69
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 20
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 403
+HP: 69
+Coins: 3
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 416
+HP: 69
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 28
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 416
+HP: 69
+Coins: 31
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 2
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 416
+HP: 76
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 435
+HP: 76
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 18
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 450
+HP: 76
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 13
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 450
+HP: 76
+Coins: 4
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 450
+HP: 76
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Orleans
+Level: 8
+Force: 450
+HP: 76
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 9
+Force: 450
+HP: 76
+Coins: 25
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 11
+------------------------
+Player Details:
+Name: Orleans
+Level: 9
+Force: 450
+HP: 81
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 14
+------------------------
+Player Details:
+Name: Orleans
+Level: 9
+Force: 470
+HP: 81
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 10
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Orleans
+Level: 10
+Force: 470
+HP: 81
+Coins: 10
+------------------------
+The player has won! :D

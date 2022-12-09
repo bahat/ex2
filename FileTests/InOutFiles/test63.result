@@ -1,0 +1,31 @@
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 17
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Sevastopol
+Level: 2
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 20
+Damage taken (on loss): 867
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Sevastopol
+Level: 2
+Force: 5
+HP: 0
+Coins: 17
+------------------------
+The player was defeated... :(

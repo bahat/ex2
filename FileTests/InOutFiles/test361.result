@@ -1,0 +1,153 @@
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 13
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 11
+Cost: 6
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 15
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 19
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 100
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 3
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 96
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 3
+Damage taken (on loss): 15
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mouth
+Level: 1
+Force: 5
+HP: 81
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 20
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mouth
+Level: 2
+Force: 5
+HP: 81
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 17
+------------------------
+Player Details:
+Name: Mouth
+Level: 2
+Force: 6
+HP: 81
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 2
+Damage taken (on loss): 650
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mouth
+Level: 2
+Force: 6
+HP: 0
+Coins: 15
+------------------------
+The player was defeated... :(

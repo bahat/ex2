@@ -1,0 +1,230 @@
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 5
+HP: 100
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 15
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 7
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 69937
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 7
+HP: 100
+Coins: 69937
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 476
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 7
+HP: 100
+Coins: 69461
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 0
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 7
+HP: 100
+Coins: 69461
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 5347
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 7
+HP: 100
+Coins: 64114
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 7
+HP: 100
+Coins: 64114
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 7
+HP: 100
+Coins: 64118
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 16
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 10
+HP: 100
+Coins: 64102
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 10
+HP: 100
+Coins: 64102
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 10
+HP: 100
+Coins: 64102
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 19
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 10
+HP: 100
+Coins: 64083
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 19
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 10
+HP: 100
+Coins: 64064
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 10
+HP: 100
+Coins: 64064
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 13
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 1
+Force: 10
+HP: 100
+Coins: 64051
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 11
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 2
+Force: 10
+HP: 100
+Coins: 64062
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 7
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 2
+Force: 10
+HP: 100
+Coins: 64069
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 12
+Damage taken (on loss): 266
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Steve_Young
+Level: 2
+Force: 10
+HP: 0
+Coins: 64069
+------------------------
+The player was defeated... :(

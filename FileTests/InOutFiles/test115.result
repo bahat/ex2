@@ -1,0 +1,859 @@
+Player Details:
+Name: World_Court
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: World_Court
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 21
+Damage taken (on loss): 85
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 9
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 9
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 9
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 39
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 34
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 48
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 11
+Damage taken (on loss): 31
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 69
+Coins: 71
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 87
+Coins: 61
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 87
+Coins: 61
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: World_Court
+Level: 2
+Force: 12
+HP: 100
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 21
+Damage taken (on loss): 85
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 12
+HP: 100
+Coins: 81
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 16
+HP: 100
+Coins: 71
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 16
+HP: 100
+Coins: 74
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 16
+HP: 100
+Coins: 91
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 19
+HP: 100
+Coins: 88
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 19
+HP: 100
+Coins: 99
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 19
+HP: 100
+Coins: 108
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 19
+HP: 100
+Coins: 94
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 19
+HP: 100
+Coins: 108
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 19
+HP: 100
+Coins: 126
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: World_Court
+Level: 3
+Force: 19
+HP: 100
+Coins: 131
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 11
+Damage taken (on loss): 31
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 4
+Force: 19
+HP: 100
+Coins: 142
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 4
+Force: 19
+HP: 100
+Coins: 132
+------------------------
+Player Details:
+Name: World_Court
+Level: 4
+Force: 19
+HP: 100
+Coins: 132
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: World_Court
+Level: 4
+Force: 19
+HP: 100
+Coins: 131
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 21
+Damage taken (on loss): 85
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 19
+HP: 100
+Coins: 152
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 23
+HP: 100
+Coins: 142
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 23
+HP: 100
+Coins: 145
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 23
+HP: 100
+Coins: 162
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 26
+HP: 100
+Coins: 159
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 26
+HP: 100
+Coins: 170
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 26
+HP: 100
+Coins: 179
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 26
+HP: 100
+Coins: 165
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 26
+HP: 100
+Coins: 179
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 26
+HP: 100
+Coins: 197
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: World_Court
+Level: 5
+Force: 26
+HP: 100
+Coins: 202
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 11
+Damage taken (on loss): 31
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 6
+Force: 26
+HP: 100
+Coins: 213
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 6
+Force: 26
+HP: 100
+Coins: 203
+------------------------
+Player Details:
+Name: World_Court
+Level: 6
+Force: 26
+HP: 100
+Coins: 203
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: World_Court
+Level: 6
+Force: 26
+HP: 100
+Coins: 202
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 21
+Damage taken (on loss): 85
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 26
+HP: 100
+Coins: 223
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 30
+HP: 100
+Coins: 213
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 30
+HP: 100
+Coins: 216
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 30
+HP: 100
+Coins: 233
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 33
+HP: 100
+Coins: 230
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 33
+HP: 100
+Coins: 241
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 33
+HP: 100
+Coins: 250
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 33
+HP: 100
+Coins: 236
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 33
+HP: 100
+Coins: 250
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 33
+HP: 100
+Coins: 268
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: World_Court
+Level: 7
+Force: 33
+HP: 100
+Coins: 273
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 11
+Damage taken (on loss): 31
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 8
+Force: 33
+HP: 100
+Coins: 284
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 8
+Force: 33
+HP: 100
+Coins: 274
+------------------------
+Player Details:
+Name: World_Court
+Level: 8
+Force: 33
+HP: 100
+Coins: 274
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: World_Court
+Level: 8
+Force: 33
+HP: 100
+Coins: 273
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 21
+Damage taken (on loss): 85
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 33
+HP: 100
+Coins: 294
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 10
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 37
+HP: 100
+Coins: 284
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 37
+HP: 100
+Coins: 287
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 37
+HP: 100
+Coins: 304
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 3
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 40
+HP: 100
+Coins: 301
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 40
+HP: 100
+Coins: 312
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 9
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 40
+HP: 100
+Coins: 321
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 9
+Cost: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 40
+HP: 100
+Coins: 307
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 40
+HP: 100
+Coins: 321
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 40
+HP: 100
+Coins: 339
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: World_Court
+Level: 9
+Force: 40
+HP: 100
+Coins: 344
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 11
+Damage taken (on loss): 31
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: World_Court
+Level: 10
+Force: 40
+HP: 100
+Coins: 355
+------------------------
+The player has won! :D

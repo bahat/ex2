@@ -1,0 +1,353 @@
+Player Details:
+Name: ColinTheCollonel
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 30
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 45
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 27
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 1
+Force: 5
+HP: 83
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 8
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 83
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 9
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 83
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 100
+Profit (on win): 100
+Damage taken (on loss): 30
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 53
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 53
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 50
+Profit (on win): 30
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 50
+Coins: 26
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 50
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 30
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 50
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 65
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 45
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 65
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 27
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 2
+Force: 5
+HP: 48
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 8
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 5
+HP: 48
+Coins: 19
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 9
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 48
+Coins: 10
+------------------------
+Card drawn:
+Type: Battle
+Force: 100
+Profit (on win): 100
+Damage taken (on loss): 30
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 18
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 18
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 50
+Profit (on win): 30
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 15
+Coins: 28
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 15
+Coins: 28
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 30
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 15
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 30
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 45
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 3
+Force: 7
+HP: 30
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 27
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 4
+Force: 7
+HP: 30
+Coins: 40
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 8
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 5
+Force: 7
+HP: 30
+Coins: 48
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 9
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 5
+Force: 9
+HP: 30
+Coins: 39
+------------------------
+Card drawn:
+Type: Battle
+Force: 100
+Profit (on win): 100
+Damage taken (on loss): 30
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: ColinTheCollonel
+Level: 5
+Force: 9
+HP: 0
+Coins: 39
+------------------------
+The player was defeated... :(

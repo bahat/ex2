@@ -1,0 +1,137 @@
+Player Details:
+Name: John_Brown
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 97
+Damage taken (on loss): 2
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: John_Brown
+Level: 1
+Force: 5
+HP: 98
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 11
+------------------------
+Player Details:
+Name: John_Brown
+Level: 1
+Force: 5
+HP: 98
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: John_Brown
+Level: 1
+Force: 5
+HP: 98
+Coins: 15
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 1
+------------------------
+Player Details:
+Name: John_Brown
+Level: 1
+Force: 13
+HP: 98
+Coins: 14
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 5
+------------------------
+Player Details:
+Name: John_Brown
+Level: 1
+Force: 27
+HP: 98
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 0
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_Brown
+Level: 2
+Force: 27
+HP: 98
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: John_Brown
+Level: 2
+Force: 27
+HP: 98
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 12
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: John_Brown
+Level: 3
+Force: 27
+HP: 98
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 10
+------------------------
+Player Details:
+Name: John_Brown
+Level: 3
+Force: 27
+HP: 98
+Coins: 31
+------------------------
+Card drawn:
+Type: Battle
+Force: 138
+Profit (on win): 5
+Damage taken (on loss): 2125
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: John_Brown
+Level: 3
+Force: 27
+HP: 0
+Coins: 31
+------------------------
+The player was defeated... :(

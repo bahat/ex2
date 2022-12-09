@@ -1,0 +1,437 @@
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 16
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 5
+HP: 81
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 5
+HP: 81
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 0
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 11
+HP: 81
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 11
+HP: 81
+Coins: 32
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 1
+Force: 11
+HP: 83
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 8
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 2
+Force: 11
+HP: 83
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 1
+Damage taken (on loss): 1
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 2
+Force: 11
+HP: 82
+Coins: 24
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 13
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 2
+Force: 30
+HP: 82
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 9
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 2
+Force: 42
+HP: 82
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 20
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 2
+Force: 42
+HP: 82
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 0
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 3
+Force: 42
+HP: 82
+Coins: 2
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 3
+Force: 42
+HP: 82
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 6
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 4
+Force: 42
+HP: 82
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 0
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 4
+Force: 42
+HP: 85
+Coins: 26
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 16
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 5
+Force: 42
+HP: 85
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 62
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 5
+Force: 42
+HP: 85
+Coins: 42
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 12
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 5
+Force: 42
+HP: 85
+Coins: 30
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 14
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 6
+Force: 42
+HP: 85
+Coins: 44
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 4
+Damage taken (on loss): 24
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 7
+Force: 42
+HP: 85
+Coins: 48
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 20
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 7
+Force: 48
+HP: 85
+Coins: 28
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 7
+Force: 48
+HP: 85
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 16
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 7
+Force: 48
+HP: 90
+Coins: 12
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 7
+Force: 48
+HP: 90
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 7
+Force: 50
+HP: 90
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 7
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 8
+Force: 50
+HP: 90
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 8
+Force: 50
+HP: 90
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 6
+Cost: 0
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 8
+Force: 56
+HP: 90
+Coins: 27
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 8
+Force: 56
+HP: 90
+Coins: 39
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 16
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 8
+Force: 56
+HP: 92
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 8
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 9
+Force: 56
+HP: 92
+Coins: 31
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 1
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: The_New_Adventures_of_Old_Christine
+Level: 10
+Force: 56
+HP: 92
+Coins: 32
+------------------------
+The player has won! :D

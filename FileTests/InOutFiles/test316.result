@@ -1,0 +1,376 @@
+Player Details:
+Name: Daisy
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Daisy
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Daisy
+Level: 1
+Force: 5
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Daisy
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 138
+Profit (on win): 51
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Daisy
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 5
+------------------------
+Player Details:
+Name: Daisy
+Level: 1
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 5
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 2
+Force: 5
+HP: 100
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Daisy
+Level: 2
+Force: 5
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 3
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: -9
+Profit (on win): 298
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 4
+Force: 5
+HP: 100
+Coins: 309
+------------------------
+Player Details:
+Name: Daisy
+Level: 4
+Force: 5
+HP: 100
+Coins: 309
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Daisy
+Level: 4
+Force: 5
+HP: 100
+Coins: 313
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Daisy
+Level: 4
+Force: 5
+HP: 100
+Coins: 314
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Daisy
+Level: 4
+Force: 5
+HP: 100
+Coins: 313
+------------------------
+Card drawn:
+Type: Battle
+Force: 138
+Profit (on win): 51
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Daisy
+Level: 4
+Force: 5
+HP: 100
+Coins: 313
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 5
+------------------------
+Player Details:
+Name: Daisy
+Level: 4
+Force: 24
+HP: 100
+Coins: 308
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 5
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 5
+Force: 24
+HP: 100
+Coins: 313
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Daisy
+Level: 5
+Force: 24
+HP: 100
+Coins: 311
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 6
+Force: 24
+HP: 100
+Coins: 315
+------------------------
+Card drawn:
+Type: Battle
+Force: -9
+Profit (on win): 298
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 7
+Force: 24
+HP: 100
+Coins: 613
+------------------------
+Player Details:
+Name: Daisy
+Level: 7
+Force: 24
+HP: 100
+Coins: 613
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: Daisy
+Level: 7
+Force: 24
+HP: 100
+Coins: 617
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1
+------------------------
+Player Details:
+Name: Daisy
+Level: 7
+Force: 24
+HP: 100
+Coins: 618
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 1
+------------------------
+Player Details:
+Name: Daisy
+Level: 7
+Force: 24
+HP: 100
+Coins: 617
+------------------------
+Card drawn:
+Type: Battle
+Force: 138
+Profit (on win): 51
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Daisy
+Level: 7
+Force: 24
+HP: 100
+Coins: 617
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 5
+------------------------
+Player Details:
+Name: Daisy
+Level: 7
+Force: 43
+HP: 100
+Coins: 612
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 5
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 8
+Force: 43
+HP: 100
+Coins: 617
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Daisy
+Level: 8
+Force: 43
+HP: 100
+Coins: 615
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 4
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 9
+Force: 43
+HP: 100
+Coins: 619
+------------------------
+Card drawn:
+Type: Battle
+Force: -9
+Profit (on win): 298
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Daisy
+Level: 10
+Force: 43
+HP: 100
+Coins: 917
+------------------------
+The player has won! :D

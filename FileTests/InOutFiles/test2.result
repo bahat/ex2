@@ -1,0 +1,563 @@
+Player Details:
+Name: NirSonOfDavid
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 30
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 27
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 83
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 8
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 73
+Coins: 5
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 9
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 73
+Coins: 5
+------------------------
+Card drawn:
+Type: Battle
+Force: 100
+Profit (on win): 100
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 62
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 62
+Coins: 23
+------------------------
+Card drawn:
+Type: Battle
+Force: 50
+Profit (on win): 30
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 59
+Coins: 23
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 59
+Coins: 23
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 30
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 59
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 2
+Force: 5
+HP: 74
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 5
+HP: 74
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 27
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 5
+HP: 57
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 8
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 5
+HP: 47
+Coins: 13
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 9
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 9
+HP: 47
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 100
+Profit (on win): 100
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 9
+HP: 36
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 9
+HP: 36
+Coins: 22
+------------------------
+Card drawn:
+Type: Battle
+Force: 50
+Profit (on win): 30
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 9
+HP: 33
+Coins: 22
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 9
+HP: 33
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 30
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 9
+HP: 33
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 3
+Force: 9
+HP: 48
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 4
+Force: 9
+HP: 48
+Coins: 12
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 27
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 5
+Force: 9
+HP: 48
+Coins: 39
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 8
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 9
+HP: 48
+Coins: 47
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 9
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 13
+HP: 48
+Coins: 38
+------------------------
+Card drawn:
+Type: Battle
+Force: 100
+Profit (on win): 100
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 13
+HP: 37
+Coins: 38
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 13
+HP: 37
+Coins: 56
+------------------------
+Card drawn:
+Type: Battle
+Force: 50
+Profit (on win): 30
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 13
+HP: 34
+Coins: 56
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 13
+HP: 34
+Coins: 56
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 30
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 23
+HP: 34
+Coins: 26
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 6
+Force: 23
+HP: 49
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 7
+Force: 23
+HP: 49
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 27
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 8
+Force: 23
+HP: 49
+Coins: 43
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 8
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 23
+HP: 49
+Coins: 51
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 9
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 27
+HP: 49
+Coins: 42
+------------------------
+Card drawn:
+Type: Battle
+Force: 100
+Profit (on win): 100
+Damage taken (on loss): 11
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 27
+HP: 38
+Coins: 42
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 27
+HP: 38
+Coins: 60
+------------------------
+Card drawn:
+Type: Battle
+Force: 50
+Profit (on win): 30
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 27
+HP: 35
+Coins: 60
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 27
+HP: 35
+Coins: 60
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 30
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 37
+HP: 35
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 15
+Cost: 15
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 9
+Force: 37
+HP: 50
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: NirSonOfDavid
+Level: 10
+Force: 37
+HP: 50
+Coins: 20
+------------------------
+The player has won! :D

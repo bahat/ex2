@@ -1,0 +1,423 @@
+Player Details:
+Name: Flicka
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 6
+------------------------
+Player Details:
+Name: Flicka
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 342852
+------------------------
+Player Details:
+Name: Flicka
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 138
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 2
+Force: 5
+HP: 100
+Coins: 138
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 8
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 3
+Force: 5
+HP: 100
+Coins: 146
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 17
+Damage taken (on loss): 3
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Flicka
+Level: 3
+Force: 5
+HP: 97
+Coins: 146
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 13
+------------------------
+Player Details:
+Name: Flicka
+Level: 3
+Force: 5
+HP: 100
+Coins: 133
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 5
+HP: 100
+Coins: 139
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 5
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 5
+HP: 96
+Coins: 139
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 18
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 10
+HP: 96
+Coins: 121
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 446
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 10
+HP: 96
+Coins: 121
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 10
+HP: 96
+Coins: 133
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 13
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 10
+HP: 100
+Coins: 120
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 10
+HP: 100
+Coins: 137
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 10
+HP: 100
+Coins: 123
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 10
+HP: 100
+Coins: 123
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 6
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 27
+HP: 100
+Coins: 117
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 342852
+------------------------
+Player Details:
+Name: Flicka
+Level: 4
+Force: 27
+HP: 100
+Coins: 117
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 138
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 5
+Force: 27
+HP: 100
+Coins: 255
+------------------------
+Card drawn:
+Type: Battle
+Force: 4
+Profit (on win): 8
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 6
+Force: 27
+HP: 100
+Coins: 263
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 17
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 7
+Force: 27
+HP: 100
+Coins: 280
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 17
+Cost: 13
+------------------------
+Player Details:
+Name: Flicka
+Level: 7
+Force: 27
+HP: 100
+Coins: 267
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 6
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 8
+Force: 27
+HP: 100
+Coins: 273
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 5
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 27
+HP: 100
+Coins: 278
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 18
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 32
+HP: 100
+Coins: 260
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 446
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 32
+HP: 100
+Coins: 260
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 12
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 32
+HP: 100
+Coins: 272
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 13
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 32
+HP: 100
+Coins: 259
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 32
+HP: 100
+Coins: 276
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 14
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 32
+HP: 100
+Coins: 262
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 32
+HP: 100
+Coins: 262
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 6
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 49
+HP: 100
+Coins: 256
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 342852
+------------------------
+Player Details:
+Name: Flicka
+Level: 9
+Force: 49
+HP: 100
+Coins: 256
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 138
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Flicka
+Level: 10
+Force: 49
+HP: 100
+Coins: 394
+------------------------
+The player has won! :D

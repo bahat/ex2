@@ -1,0 +1,616 @@
+Player Details:
+Name: mandala
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 5
+HP: 86
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 18
+HP: 86
+Coins: 10
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 18
+HP: 86
+Coins: 10
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 18
+HP: 86
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 18
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 18
+HP: 86
+Coins: 21
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 31
+HP: 86
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 31
+HP: 86
+Coins: 20
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 31
+HP: 86
+Coins: 40
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 1
+Force: 31
+HP: 100
+Coins: 31
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 2
+Force: 31
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 2
+Force: 44
+HP: 100
+Coins: 43
+------------------------
+Player Details:
+Name: mandala
+Level: 2
+Force: 44
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 2
+Force: 44
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 2
+Force: 44
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 3
+Force: 44
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 3
+Force: 57
+HP: 100
+Coins: 66
+------------------------
+Player Details:
+Name: mandala
+Level: 3
+Force: 57
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 3
+Force: 57
+HP: 100
+Coins: 86
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 3
+Force: 57
+HP: 100
+Coins: 77
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 4
+Force: 57
+HP: 100
+Coins: 90
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 4
+Force: 70
+HP: 100
+Coins: 89
+------------------------
+Player Details:
+Name: mandala
+Level: 4
+Force: 70
+HP: 100
+Coins: 89
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 4
+Force: 70
+HP: 100
+Coins: 109
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 4
+Force: 70
+HP: 100
+Coins: 100
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 5
+Force: 70
+HP: 100
+Coins: 113
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 5
+Force: 83
+HP: 100
+Coins: 112
+------------------------
+Player Details:
+Name: mandala
+Level: 5
+Force: 83
+HP: 100
+Coins: 112
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 5
+Force: 83
+HP: 100
+Coins: 132
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 5
+Force: 83
+HP: 100
+Coins: 123
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 6
+Force: 83
+HP: 100
+Coins: 136
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 6
+Force: 96
+HP: 100
+Coins: 135
+------------------------
+Player Details:
+Name: mandala
+Level: 6
+Force: 96
+HP: 100
+Coins: 135
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 6
+Force: 96
+HP: 100
+Coins: 155
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 6
+Force: 96
+HP: 100
+Coins: 146
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 7
+Force: 96
+HP: 100
+Coins: 159
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 7
+Force: 109
+HP: 100
+Coins: 158
+------------------------
+Player Details:
+Name: mandala
+Level: 7
+Force: 109
+HP: 100
+Coins: 158
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 7
+Force: 109
+HP: 100
+Coins: 178
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 7
+Force: 109
+HP: 100
+Coins: 169
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 8
+Force: 109
+HP: 100
+Coins: 182
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 8
+Force: 122
+HP: 100
+Coins: 181
+------------------------
+Player Details:
+Name: mandala
+Level: 8
+Force: 122
+HP: 100
+Coins: 181
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 8
+Force: 122
+HP: 100
+Coins: 201
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 8
+Force: 122
+HP: 100
+Coins: 192
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 9
+Force: 122
+HP: 100
+Coins: 205
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 1
+------------------------
+Player Details:
+Name: mandala
+Level: 9
+Force: 135
+HP: 100
+Coins: 204
+------------------------
+Player Details:
+Name: mandala
+Level: 9
+Force: 135
+HP: 100
+Coins: 204
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: mandala
+Level: 9
+Force: 135
+HP: 100
+Coins: 224
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 9
+------------------------
+Player Details:
+Name: mandala
+Level: 9
+Force: 135
+HP: 100
+Coins: 215
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 13
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: mandala
+Level: 10
+Force: 135
+HP: 100
+Coins: 228
+------------------------
+The player has won! :D

@@ -1,0 +1,601 @@
+Player Details:
+Name: a_coincidence
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 2
+Force: 5
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 2
+Force: 5
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 2
+Force: 5
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 2
+Force: 5
+HP: 83
+Coins: 14
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 2
+Force: 5
+HP: 83
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 2
+Force: 5
+HP: 83
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 3
+Force: 5
+HP: 83
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 3
+Force: 5
+HP: 89
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 3
+Force: 5
+HP: 89
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 3
+Force: 5
+HP: 72
+Coins: 9
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 3
+Force: 5
+HP: 72
+Coins: 9
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 3
+Force: 5
+HP: 72
+Coins: 9
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 4
+Force: 5
+HP: 72
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 4
+Force: 5
+HP: 78
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 4
+Force: 5
+HP: 78
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 4
+Force: 5
+HP: 61
+Coins: 4
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 4
+Force: 5
+HP: 61
+Coins: 4
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 4
+Force: 5
+HP: 61
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 5
+Force: 5
+HP: 61
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 5
+Force: 5
+HP: 61
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 5
+Force: 5
+HP: 61
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 5
+Force: 5
+HP: 44
+Coins: 18
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 5
+Force: 5
+HP: 44
+Coins: 18
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 5
+Force: 5
+HP: 44
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 6
+Force: 5
+HP: 44
+Coins: 32
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 6
+Force: 5
+HP: 50
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 6
+Force: 5
+HP: 50
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 6
+Force: 5
+HP: 33
+Coins: 13
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 6
+Force: 5
+HP: 33
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 6
+Force: 5
+HP: 33
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 7
+Force: 5
+HP: 33
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 7
+Force: 5
+HP: 39
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 7
+Force: 5
+HP: 39
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 7
+Force: 5
+HP: 22
+Coins: 8
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 7
+Force: 5
+HP: 22
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 7
+Force: 5
+HP: 22
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 8
+Force: 5
+HP: 22
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 8
+Force: 5
+HP: 28
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 8
+Force: 5
+HP: 28
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 8
+Force: 5
+HP: 11
+Coins: 3
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 8
+Force: 5
+HP: 11
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 8
+Force: 5
+HP: 11
+Coins: 3
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 14
+Damage taken (on loss): 115
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 9
+Force: 5
+HP: 11
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 19
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 9
+Force: 5
+HP: 11
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 495
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 9
+Force: 5
+HP: 11
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 16
+Profit (on win): 0
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_coincidence
+Level: 9
+Force: 5
+HP: 0
+Coins: 17
+------------------------
+The player was defeated... :(

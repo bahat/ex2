@@ -1,0 +1,111 @@
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 18
+Cost: 4
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 14
+Profit (on win): 0
+Damage taken (on loss): 27
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 73
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 73
+Coins: 3
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 18
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 73
+Coins: 3
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 4
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 73
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 18
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 73
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 15
+Damage taken (on loss): 2
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 71
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 0
+Damage taken (on loss): 131
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: white-collar
+Level: 1
+Force: 5
+HP: 0
+Coins: 7
+------------------------
+The player was defeated... :(

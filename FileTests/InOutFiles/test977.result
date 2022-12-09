@@ -1,0 +1,404 @@
+Player Details:
+Name: Pennsylvania
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 11
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 2
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 2
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 2
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 2
+Force: 5
+HP: 96
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 208
+Cost: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 2
+Force: 213
+HP: 96
+Coins: 8
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 2
+Force: 213
+HP: 96
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 3
+Force: 213
+HP: 96
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 11
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 3
+Force: 213
+HP: 96
+Coins: 8
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 3
+Force: 213
+HP: 96
+Coins: 16
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 3
+Force: 213
+HP: 96
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 4
+Force: 213
+HP: 96
+Coins: 18
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 208
+Cost: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 4
+Force: 421
+HP: 96
+Coins: 18
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 4
+Force: 421
+HP: 96
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 5
+Force: 421
+HP: 96
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 11
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 5
+Force: 421
+HP: 99
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 5
+Force: 421
+HP: 99
+Coins: 15
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 5
+Force: 421
+HP: 99
+Coins: 15
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 6
+Force: 421
+HP: 99
+Coins: 17
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 208
+Cost: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 6
+Force: 629
+HP: 99
+Coins: 17
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 6
+Force: 629
+HP: 99
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 7
+Force: 629
+HP: 99
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 11
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 7
+Force: 629
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 7
+Force: 629
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 7
+Force: 629
+HP: 100
+Coins: 14
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 8
+Force: 629
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 208
+Cost: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 8
+Force: 837
+HP: 100
+Coins: 16
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 8
+Force: 837
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 0
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 9
+Force: 837
+HP: 100
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 11
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 9
+Force: 837
+HP: 100
+Coins: 5
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 9
+Force: 837
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 9
+Force: 837
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 10
+Profit (on win): 2
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Pennsylvania
+Level: 10
+Force: 837
+HP: 100
+Coins: 15
+------------------------
+The player has won! :D

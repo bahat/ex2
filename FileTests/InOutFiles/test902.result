@@ -1,0 +1,423 @@
+Player Details:
+Name: Louisiana
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 20
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 2
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 6
+Damage taken (on loss): 7
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Louisiana
+Level: 2
+Force: 5
+HP: 93
+Coins: 20
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1101
+Cost: 7
+------------------------
+Player Details:
+Name: Louisiana
+Level: 2
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: Louisiana
+Level: 2
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 4
+Damage taken (on loss): 752
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 3
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 13
+Damage taken (on loss): 19
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Louisiana
+Level: 3
+Force: 5
+HP: 81
+Coins: 17
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Louisiana
+Level: 3
+Force: 5
+HP: 81
+Coins: 34
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 16
+------------------------
+Player Details:
+Name: Louisiana
+Level: 3
+Force: 5
+HP: 87
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 14
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 5
+HP: 87
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 6
+HP: 87
+Coins: 30
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 6
+HP: 91
+Coins: 27
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 140
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 6
+HP: 91
+Coins: 27
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 14
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 6
+HP: 96
+Coins: 13
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1820
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 6
+HP: 96
+Coins: 1833
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 2
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 21
+HP: 96
+Coins: 1831
+------------------------
+Player Details:
+Name: Louisiana
+Level: 4
+Force: 21
+HP: 96
+Coins: 1831
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 20
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 5
+Force: 21
+HP: 96
+Coins: 1851
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 6
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 6
+Force: 21
+HP: 96
+Coins: 1857
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1101
+Cost: 7
+------------------------
+Player Details:
+Name: Louisiana
+Level: 6
+Force: 21
+HP: 100
+Coins: 1850
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 14
+------------------------
+Player Details:
+Name: Louisiana
+Level: 6
+Force: 21
+HP: 100
+Coins: 1836
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 4
+Damage taken (on loss): 752
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 7
+Force: 21
+HP: 100
+Coins: 1840
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 13
+Damage taken (on loss): 19
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 8
+Force: 21
+HP: 100
+Coins: 1853
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: Louisiana
+Level: 8
+Force: 21
+HP: 100
+Coins: 1870
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 6
+Cost: 16
+------------------------
+Player Details:
+Name: Louisiana
+Level: 8
+Force: 21
+HP: 100
+Coins: 1854
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 14
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 21
+HP: 100
+Coins: 1868
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 2
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 22
+HP: 100
+Coins: 1866
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 3
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 22
+HP: 100
+Coins: 1863
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 140
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 33
+HP: 100
+Coins: 1723
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 14
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 33
+HP: 100
+Coins: 1709
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 1820
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 33
+HP: 100
+Coins: 3529
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 15
+Cost: 2
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 48
+HP: 100
+Coins: 3527
+------------------------
+Player Details:
+Name: Louisiana
+Level: 9
+Force: 48
+HP: 100
+Coins: 3527
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 20
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Louisiana
+Level: 10
+Force: 48
+HP: 100
+Coins: 3547
+------------------------
+The player has won! :D

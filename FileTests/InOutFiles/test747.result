@@ -1,0 +1,527 @@
+Player Details:
+Name: Judas
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 78
+------------------------
+Player Details:
+Name: Judas
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 2
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1953
+------------------------
+Player Details:
+Name: Judas
+Level: 2
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 2
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 2
+Force: 5
+HP: 100
+Coins: 19
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 6
+------------------------
+Player Details:
+Name: Judas
+Level: 2
+Force: 5
+HP: 100
+Coins: 13
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 8
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 3
+Force: 5
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 372
+Profit (on win): 3
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Judas
+Level: 3
+Force: 5
+HP: 80
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Judas
+Level: 3
+Force: 5
+HP: 80
+Coins: 24
+------------------------
+Player Details:
+Name: Judas
+Level: 3
+Force: 5
+HP: 80
+Coins: 24
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 78
+------------------------
+Player Details:
+Name: Judas
+Level: 3
+Force: 5
+HP: 80
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 4
+Force: 5
+HP: 80
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1953
+------------------------
+Player Details:
+Name: Judas
+Level: 4
+Force: 5
+HP: 80
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 4
+Force: 5
+HP: 92
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 4
+Force: 5
+HP: 94
+Coins: 43
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 6
+------------------------
+Player Details:
+Name: Judas
+Level: 4
+Force: 5
+HP: 94
+Coins: 37
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 8
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 5
+Force: 5
+HP: 94
+Coins: 45
+------------------------
+Card drawn:
+Type: Battle
+Force: 372
+Profit (on win): 3
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Judas
+Level: 5
+Force: 5
+HP: 74
+Coins: 45
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Judas
+Level: 5
+Force: 5
+HP: 74
+Coins: 48
+------------------------
+Player Details:
+Name: Judas
+Level: 5
+Force: 5
+HP: 74
+Coins: 48
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 78
+------------------------
+Player Details:
+Name: Judas
+Level: 5
+Force: 5
+HP: 74
+Coins: 48
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 6
+Force: 5
+HP: 74
+Coins: 67
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1953
+------------------------
+Player Details:
+Name: Judas
+Level: 6
+Force: 5
+HP: 74
+Coins: 67
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 6
+Force: 5
+HP: 86
+Coins: 67
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 6
+Force: 5
+HP: 88
+Coins: 67
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 6
+------------------------
+Player Details:
+Name: Judas
+Level: 6
+Force: 5
+HP: 88
+Coins: 61
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 8
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 7
+Force: 5
+HP: 88
+Coins: 69
+------------------------
+Card drawn:
+Type: Battle
+Force: 372
+Profit (on win): 3
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Judas
+Level: 7
+Force: 5
+HP: 68
+Coins: 69
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Judas
+Level: 7
+Force: 5
+HP: 68
+Coins: 72
+------------------------
+Player Details:
+Name: Judas
+Level: 7
+Force: 5
+HP: 68
+Coins: 72
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 78
+------------------------
+Player Details:
+Name: Judas
+Level: 7
+Force: 5
+HP: 68
+Coins: 72
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 8
+Force: 5
+HP: 68
+Coins: 91
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 1953
+------------------------
+Player Details:
+Name: Judas
+Level: 8
+Force: 5
+HP: 68
+Coins: 91
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 12
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 8
+Force: 5
+HP: 80
+Coins: 91
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 2
+Cost: 0
+------------------------
+Player Details:
+Name: Judas
+Level: 8
+Force: 5
+HP: 82
+Coins: 91
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 6
+------------------------
+Player Details:
+Name: Judas
+Level: 8
+Force: 5
+HP: 82
+Coins: 85
+------------------------
+Card drawn:
+Type: Battle
+Force: 7
+Profit (on win): 8
+Damage taken (on loss): 16
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 9
+Force: 5
+HP: 82
+Coins: 93
+------------------------
+Card drawn:
+Type: Battle
+Force: 372
+Profit (on win): 3
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Judas
+Level: 9
+Force: 5
+HP: 62
+Coins: 93
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 3
+------------------------
+Player Details:
+Name: Judas
+Level: 9
+Force: 5
+HP: 62
+Coins: 96
+------------------------
+Player Details:
+Name: Judas
+Level: 9
+Force: 5
+HP: 62
+Coins: 96
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 78
+------------------------
+Player Details:
+Name: Judas
+Level: 9
+Force: 5
+HP: 72
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Judas
+Level: 10
+Force: 5
+HP: 72
+Coins: 37
+------------------------
+The player has won! :D

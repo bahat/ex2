@@ -1,0 +1,97 @@
+Player Details:
+Name: a_snake
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 15
+Damage taken (on loss): 8
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_snake
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: a_snake
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 1
+Cost: 17
+------------------------
+Player Details:
+Name: a_snake
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 19
+------------------------
+Player Details:
+Name: a_snake
+Level: 1
+Force: 5
+HP: 92
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: a_snake
+Level: 1
+Force: 5
+HP: 92
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 5
+Cost: 0
+------------------------
+Player Details:
+Name: a_snake
+Level: 1
+Force: 10
+HP: 92
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 41
+Profit (on win): 5
+Damage taken (on loss): 6834
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: a_snake
+Level: 1
+Force: 10
+HP: 0
+Coins: 8
+------------------------
+The player was defeated... :(

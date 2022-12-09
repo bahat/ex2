@@ -1,0 +1,127 @@
+==105395== Memcheck, a memory error detector
+==105395== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==105395== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==105395== Command: ./FileTester FileTests/InOutFiles/test5.in FileTests/InOutFiles/test5.vresult
+==105395== Parent PID: 65954
+==105395== 
+==105395== Invalid read of size 8
+==105395==    at 0x401FC8: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F3B: Mtmchkin::playNextCard() (Mtmchkin.cpp:22)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297c0 is 0 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== Invalid read of size 8
+==105395==    at 0x401FCE: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F3B: Mtmchkin::playNextCard() (Mtmchkin.cpp:22)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297c8 is 8 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== Invalid read of size 8
+==105395==    at 0x401FD6: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F3B: Mtmchkin::playNextCard() (Mtmchkin.cpp:22)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297d0 is 16 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== Invalid read of size 4
+==105395==    at 0x401FDE: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F3B: Mtmchkin::playNextCard() (Mtmchkin.cpp:22)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297d8 is 24 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== Invalid read of size 8
+==105395==    at 0x401FC8: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F5E: Mtmchkin::playNextCard() (Mtmchkin.cpp:23)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297c0 is 0 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== Invalid read of size 8
+==105395==    at 0x401FCE: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F5E: Mtmchkin::playNextCard() (Mtmchkin.cpp:23)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297c8 is 8 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== Invalid read of size 8
+==105395==    at 0x401FD6: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F5E: Mtmchkin::playNextCard() (Mtmchkin.cpp:23)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297d0 is 16 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== Invalid read of size 4
+==105395==    at 0x401FDE: Mtmchkin::getCurrentCard() (Mtmchkin.cpp:30)
+==105395==    by 0x401F5E: Mtmchkin::playNextCard() (Mtmchkin.cpp:23)
+==105395==    by 0x40269A: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:95)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Address 0x5a297d8 is 24 bytes inside a block of size 28 free'd
+==105395==    at 0x4C2BB8F: operator delete[](void*) (vg_replace_malloc.c:651)
+==105395==    by 0x402682: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:92)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395==  Block was alloc'd at
+==105395==    at 0x4C2AC38: operator new[](unsigned long) (vg_replace_malloc.c:433)
+==105395==    by 0x4021F7: testMtmchkinFromFileToFile(std::basic_ifstream<char, std::char_traits<char> >&, std::basic_ofstream<char, std::char_traits<char> >&) (fileTester.cpp:45)
+==105395==    by 0x402990: main (fileTester.cpp:141)
+==105395== 
+==105395== 
+==105395== HEAP SUMMARY:
+==105395==     in use at exit: 0 bytes in 0 blocks
+==105395==   total heap usage: 12 allocs, 12 frees, 17,787 bytes allocated
+==105395== 
+==105395== All heap blocks were freed -- no leaks are possible
+==105395== 
+==105395== For lists of detected and suppressed errors, rerun with: -s
+==105395== ERROR SUMMARY: 800 errors from 8 contexts (suppressed: 0 from 0)

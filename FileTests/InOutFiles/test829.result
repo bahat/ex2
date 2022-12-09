@@ -1,0 +1,605 @@
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 6
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 12
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 2
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 35
+Profit (on win): 105
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Alaska
+Level: 1
+Force: 5
+HP: 88
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 6
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 5
+HP: 88
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 5
+HP: 75
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 2
+Force: 5
+HP: 75
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 75
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 88
+Coins: 16
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 88
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 6
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 76
+Coins: 16
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 12
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 86
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 86
+Coins: 4
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 2
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 99
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 35
+Profit (on win): 105
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 99
+Coins: 2
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Alaska
+Level: 3
+Force: 5
+HP: 99
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 6
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 5
+HP: 99
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 5
+HP: 86
+Coins: 8
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 4
+Force: 5
+HP: 86
+Coins: 8
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 86
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 99
+Coins: 18
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 99
+Coins: 18
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 6
+Damage taken (on loss): 12
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 87
+Coins: 18
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 12
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 97
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 97
+Coins: 6
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 2
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Battle
+Force: 35
+Profit (on win): 105
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 100
+Coins: 4
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Alaska
+Level: 5
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 6
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 5
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 5
+HP: 87
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 6
+Force: 5
+HP: 87
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 5
+HP: 87
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 0
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Player Details:
+Name: Alaska
+Level: 7
+Force: 5
+HP: 100
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 12
+Profit (on win): 6
+Damage taken (on loss): 12
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 5
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 12
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 10
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 2
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 35
+Profit (on win): 105
+Damage taken (on loss): 0
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 3
+------------------------
+Player Details:
+Name: Alaska
+Level: 8
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 6
+Damage taken (on loss): 7
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 5
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 0
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 5
+HP: 87
+Coins: 7
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 20
+Cost: 19
+------------------------
+Player Details:
+Name: Alaska
+Level: 9
+Force: 5
+HP: 87
+Coins: 7
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 10
+Damage taken (on loss): 3
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Alaska
+Level: 10
+Force: 5
+HP: 87
+Coins: 17
+------------------------
+The player has won! :D

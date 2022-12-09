@@ -1,0 +1,61 @@
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 20
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Mao_Tse-tung
+Level: 2
+Force: 5
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 459
+Damage taken (on loss): 9
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mao_Tse-tung
+Level: 2
+Force: 5
+HP: 91
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 13
+Profit (on win): 6
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mao_Tse-tung
+Level: 2
+Force: 5
+HP: 78
+Coins: 20
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 14
+Damage taken (on loss): 5867
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Mao_Tse-tung
+Level: 2
+Force: 5
+HP: 0
+Coins: 20
+------------------------
+The player was defeated... :(

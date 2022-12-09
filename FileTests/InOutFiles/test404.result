@@ -1,0 +1,704 @@
+Player Details:
+Name: Tension
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 5
+HP: 100
+Coins: 8
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 5
+HP: 100
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 5
+Damage taken (on loss): 20
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 228
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 5
+HP: 80
+Coins: 6
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 5
+HP: 80
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 17
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 6
+HP: 80
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 11
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 6
+HP: 80
+Coins: 9
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 25
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 1
+Force: 25
+HP: 80
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 423
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 2
+Force: 25
+HP: 80
+Coins: 425
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Tension
+Level: 2
+Force: 33
+HP: 80
+Coins: 425
+------------------------
+Player Details:
+Name: Tension
+Level: 2
+Force: 33
+HP: 80
+Coins: 425
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Tension
+Level: 2
+Force: 33
+HP: 80
+Coins: 433
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Tension
+Level: 2
+Force: 33
+HP: 80
+Coins: 431
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 5
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 3
+Force: 33
+HP: 80
+Coins: 436
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 228
+------------------------
+Player Details:
+Name: Tension
+Level: 3
+Force: 50
+HP: 80
+Coins: 208
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Tension
+Level: 3
+Force: 50
+HP: 80
+Coins: 228
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 17
+------------------------
+Player Details:
+Name: Tension
+Level: 3
+Force: 51
+HP: 80
+Coins: 211
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 11
+------------------------
+Player Details:
+Name: Tension
+Level: 3
+Force: 55
+HP: 80
+Coins: 200
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 3
+Force: 74
+HP: 80
+Coins: 193
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 3
+Force: 74
+HP: 94
+Coins: 186
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 423
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 4
+Force: 74
+HP: 94
+Coins: 609
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Tension
+Level: 4
+Force: 82
+HP: 94
+Coins: 609
+------------------------
+Player Details:
+Name: Tension
+Level: 4
+Force: 82
+HP: 94
+Coins: 609
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Tension
+Level: 4
+Force: 82
+HP: 94
+Coins: 617
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Tension
+Level: 4
+Force: 82
+HP: 94
+Coins: 615
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 5
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 5
+Force: 82
+HP: 94
+Coins: 620
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 228
+------------------------
+Player Details:
+Name: Tension
+Level: 5
+Force: 99
+HP: 94
+Coins: 392
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Tension
+Level: 5
+Force: 99
+HP: 94
+Coins: 412
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 17
+------------------------
+Player Details:
+Name: Tension
+Level: 5
+Force: 100
+HP: 94
+Coins: 395
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 11
+------------------------
+Player Details:
+Name: Tension
+Level: 5
+Force: 104
+HP: 94
+Coins: 384
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 5
+Force: 123
+HP: 94
+Coins: 377
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 5
+Force: 123
+HP: 100
+Coins: 370
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 423
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 6
+Force: 123
+HP: 100
+Coins: 793
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Tension
+Level: 6
+Force: 131
+HP: 100
+Coins: 793
+------------------------
+Player Details:
+Name: Tension
+Level: 6
+Force: 131
+HP: 100
+Coins: 793
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Tension
+Level: 6
+Force: 131
+HP: 100
+Coins: 801
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Tension
+Level: 6
+Force: 131
+HP: 100
+Coins: 799
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 5
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 7
+Force: 131
+HP: 100
+Coins: 804
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 228
+------------------------
+Player Details:
+Name: Tension
+Level: 7
+Force: 148
+HP: 100
+Coins: 576
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Tension
+Level: 7
+Force: 148
+HP: 100
+Coins: 596
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 17
+------------------------
+Player Details:
+Name: Tension
+Level: 7
+Force: 149
+HP: 100
+Coins: 579
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 11
+------------------------
+Player Details:
+Name: Tension
+Level: 7
+Force: 153
+HP: 100
+Coins: 568
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 7
+Force: 172
+HP: 100
+Coins: 561
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 7
+Force: 172
+HP: 100
+Coins: 554
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 423
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 8
+Force: 172
+HP: 100
+Coins: 977
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 8
+Cost: 0
+------------------------
+Player Details:
+Name: Tension
+Level: 8
+Force: 180
+HP: 100
+Coins: 977
+------------------------
+Player Details:
+Name: Tension
+Level: 8
+Force: 180
+HP: 100
+Coins: 977
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 8
+------------------------
+Player Details:
+Name: Tension
+Level: 8
+Force: 180
+HP: 100
+Coins: 985
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 0
+Cost: 2
+------------------------
+Player Details:
+Name: Tension
+Level: 8
+Force: 180
+HP: 100
+Coins: 983
+------------------------
+Card drawn:
+Type: Battle
+Force: 19
+Profit (on win): 5
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 9
+Force: 180
+HP: 100
+Coins: 988
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 228
+------------------------
+Player Details:
+Name: Tension
+Level: 9
+Force: 197
+HP: 100
+Coins: 760
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 20
+------------------------
+Player Details:
+Name: Tension
+Level: 9
+Force: 197
+HP: 100
+Coins: 780
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 17
+------------------------
+Player Details:
+Name: Tension
+Level: 9
+Force: 198
+HP: 100
+Coins: 763
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 11
+------------------------
+Player Details:
+Name: Tension
+Level: 9
+Force: 202
+HP: 100
+Coins: 752
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 19
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 9
+Force: 221
+HP: 100
+Coins: 745
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 14
+Cost: 7
+------------------------
+Player Details:
+Name: Tension
+Level: 9
+Force: 221
+HP: 100
+Coins: 738
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 423
+Damage taken (on loss): 1
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Tension
+Level: 10
+Force: 221
+HP: 100
+Coins: 1161
+------------------------
+The player has won! :D

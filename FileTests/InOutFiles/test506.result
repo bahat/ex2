@@ -1,0 +1,500 @@
+Player Details:
+Name: soccer
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 1
+------------------------
+Player Details:
+Name: soccer
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 2
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 2
+Force: 15
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: soccer
+Level: 2
+Force: 15
+HP: 100
+Coins: 28
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 3
+Force: 15
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: soccer
+Level: 3
+Force: 15
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 3
+Force: 32
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 8
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 32
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 1
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 32
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2437
+Cost: 17
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2469
+HP: 100
+Coins: 26
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 5
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2483
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2483
+HP: 100
+Coins: 35
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2485
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2485
+HP: 100
+Coins: 23
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2485
+HP: 100
+Coins: 22
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2485
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 1
+------------------------
+Player Details:
+Name: soccer
+Level: 4
+Force: 2497
+HP: 100
+Coins: 21
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 5
+Force: 2497
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 5
+Force: 2507
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: soccer
+Level: 5
+Force: 2507
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 6
+Force: 2507
+HP: 100
+Coins: 63
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: soccer
+Level: 6
+Force: 2507
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 6
+Force: 2524
+HP: 100
+Coins: 57
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 8
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 2524
+HP: 100
+Coins: 65
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 1
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 2524
+HP: 100
+Coins: 64
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2437
+Cost: 17
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4961
+HP: 100
+Coins: 47
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 14
+Cost: 5
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4975
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 14
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4975
+HP: 100
+Coins: 56
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 2
+Cost: 12
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4977
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4977
+HP: 100
+Coins: 44
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 1
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4977
+HP: 100
+Coins: 43
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4977
+HP: 100
+Coins: 43
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 1
+------------------------
+Player Details:
+Name: soccer
+Level: 7
+Force: 4989
+HP: 100
+Coins: 42
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 11
+Damage taken (on loss): 11
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 8
+Force: 4989
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 8
+Force: 4999
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 17
+------------------------
+Player Details:
+Name: soccer
+Level: 8
+Force: 4999
+HP: 100
+Coins: 70
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 9
+Force: 4999
+HP: 100
+Coins: 84
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 6
+------------------------
+Player Details:
+Name: soccer
+Level: 9
+Force: 4999
+HP: 100
+Coins: 78
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 17
+Cost: 0
+------------------------
+Player Details:
+Name: soccer
+Level: 9
+Force: 5016
+HP: 100
+Coins: 78
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 8
+Damage taken (on loss): 4
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: soccer
+Level: 10
+Force: 5016
+HP: 100
+Coins: 86
+------------------------
+The player has won! :D

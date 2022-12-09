@@ -1,0 +1,529 @@
+Player Details:
+Name: a_birthstone
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 97
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 1
+Force: 5
+HP: 100
+Coins: 11
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 1
+Force: 5
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 1
+Force: 5
+HP: 100
+Coins: 24
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 2
+Force: 5
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 2
+Force: 15
+HP: 100
+Coins: 38
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 2
+Force: 15
+HP: 100
+Coins: 37
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 2
+Force: 26
+HP: 100
+Coins: 22
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 2
+Force: 26
+HP: 100
+Coins: 20
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 13
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 2
+Force: 38
+HP: 100
+Coins: 7
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 2
+Force: 38
+HP: 100
+Coins: 25
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 3
+Force: 38
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 4
+Force: 38
+HP: 100
+Coins: 32
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 432
+Cost: 3
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 4
+Force: 470
+HP: 100
+Coins: 29
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 4
+Force: 470
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 97
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 4
+Force: 470
+HP: 100
+Coins: 29
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 4
+Force: 470
+HP: 100
+Coins: 40
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 4
+Force: 470
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 4
+Force: 470
+HP: 100
+Coins: 53
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 5
+Force: 470
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 5
+Force: 480
+HP: 100
+Coins: 67
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 5
+Force: 480
+HP: 100
+Coins: 66
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 5
+Force: 491
+HP: 100
+Coins: 51
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 5
+Force: 491
+HP: 100
+Coins: 49
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 13
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 5
+Force: 503
+HP: 100
+Coins: 36
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 5
+Force: 503
+HP: 100
+Coins: 54
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 6
+Force: 503
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 7
+Force: 503
+HP: 100
+Coins: 61
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 432
+Cost: 3
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 7
+Force: 935
+HP: 100
+Coins: 58
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 7
+Force: 935
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 3
+Cost: 97
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 7
+Force: 935
+HP: 100
+Coins: 58
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 11
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 7
+Force: 935
+HP: 100
+Coins: 69
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 13
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 7
+Force: 935
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 0
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 7
+Force: 935
+HP: 100
+Coins: 82
+------------------------
+Card drawn:
+Type: Battle
+Force: 0
+Profit (on win): 14
+Damage taken (on loss): 15
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 8
+Force: 935
+HP: 100
+Coins: 96
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 10
+Cost: 0
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 8
+Force: 945
+HP: 100
+Coins: 96
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 10
+Cost: 1
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 8
+Force: 945
+HP: 100
+Coins: 95
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 15
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 8
+Force: 956
+HP: 100
+Coins: 80
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 20
+Cost: 2
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 8
+Force: 956
+HP: 100
+Coins: 78
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 13
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 8
+Force: 968
+HP: 100
+Coins: 65
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 18
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 8
+Force: 968
+HP: 100
+Coins: 83
+------------------------
+Card drawn:
+Type: Battle
+Force: 6
+Profit (on win): 4
+Damage taken (on loss): 8
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 9
+Force: 968
+HP: 100
+Coins: 87
+------------------------
+Card drawn:
+Type: Battle
+Force: 9
+Profit (on win): 3
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: a_birthstone
+Level: 10
+Force: 968
+HP: 100
+Coins: 90
+------------------------
+The player has won! :D

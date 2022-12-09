@@ -1,0 +1,409 @@
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 2
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 1
+Force: 5
+HP: 90
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 7
+Damage taken (on loss): 18
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 1
+Force: 5
+HP: 72
+Coins: 0
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 20
+Damage taken (on loss): 13
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 1
+Force: 5
+HP: 59
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 1
+Force: 5
+HP: 59
+Coins: 6
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 2
+Force: 5
+HP: 59
+Coins: 23
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 2
+Force: 5
+HP: 59
+Coins: 28
+------------------------
+Card drawn:
+Type: Heal
+Heal points: -23
+Cost: 11
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 2
+Force: 5
+HP: 59
+Coins: 17
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 48999
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 2
+Force: 5
+HP: 59
+Coins: 17
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 65
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 3
+Force: 5
+HP: 59
+Coins: 82
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 13
+Damage taken (on loss): 27
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 3
+Force: 5
+HP: 32
+Coins: 82
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 3
+Force: 5
+HP: 32
+Coins: 88
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 9
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 3
+Force: 5
+HP: 36
+Coins: 79
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 1506
+Damage taken (on loss): 20
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 4
+Force: 5
+HP: 36
+Coins: 1585
+------------------------
+Card drawn:
+Type: Battle
+Force: 1
+Profit (on win): 3
+Damage taken (on loss): 34
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 5
+Force: 5
+HP: 36
+Coins: 1588
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 8
+Cost: 7
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 5
+Force: 5
+HP: 44
+Coins: 1581
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 4
+Cost: 61
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 5
+Force: 5
+HP: 48
+Coins: 1520
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 12
+Cost: 6
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 5
+Force: 17
+HP: 48
+Coins: 1514
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 5
+Force: 17
+HP: 48
+Coins: 1514
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 11
+Cost: 2
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 5
+Force: 28
+HP: 48
+Coins: 1512
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 0
+Cost: 1
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 5
+Force: 28
+HP: 48
+Coins: 1511
+------------------------
+Card drawn:
+Type: Battle
+Force: 18
+Profit (on win): 5
+Damage taken (on loss): 10
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 6
+Force: 28
+HP: 48
+Coins: 1516
+------------------------
+Card drawn:
+Type: Battle
+Force: 17
+Profit (on win): 7
+Damage taken (on loss): 18
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 7
+Force: 28
+HP: 48
+Coins: 1523
+------------------------
+Card drawn:
+Type: Battle
+Force: 11
+Profit (on win): 20
+Damage taken (on loss): 13
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 8
+Force: 28
+HP: 48
+Coins: 1543
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 6
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 8
+Force: 28
+HP: 48
+Coins: 1549
+------------------------
+Card drawn:
+Type: Battle
+Force: 5
+Profit (on win): 17
+Damage taken (on loss): 14
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 9
+Force: 28
+HP: 48
+Coins: 1566
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 5
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 9
+Force: 28
+HP: 48
+Coins: 1571
+------------------------
+Card drawn:
+Type: Heal
+Heal points: -23
+Cost: 11
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 9
+Force: 28
+HP: 48
+Coins: 1560
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 48999
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 9
+Force: 28
+HP: 48
+Coins: 1560
+------------------------
+Card drawn:
+Type: Battle
+Force: 3
+Profit (on win): 65
+Damage taken (on loss): 5
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: Edgar_Allan_Poe
+Level: 10
+Force: 28
+HP: 48
+Coins: 1625
+------------------------
+The player has won! :D

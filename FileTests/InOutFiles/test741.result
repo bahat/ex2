@@ -1,0 +1,745 @@
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 7
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 100
+Coins: 0
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 100
+Coins: 2
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 20
+Damage taken (on loss): 9
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 91
+Coins: 2
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 100
+Coins: 1
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 8100
+Damage taken (on loss): 17
+------------------------
+After a long battle, the player has fled wounded and failed.
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 83
+Coins: 1
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: 7
+Level: 1
+Force: 5
+HP: 83
+Coins: 16
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 5
+HP: 83
+Coins: 35
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 201
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 5
+HP: 83
+Coins: 236
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 16
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 5
+HP: 86
+Coins: 220
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 19
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 6
+HP: 86
+Coins: 201
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 10
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 6
+HP: 99
+Coins: 191
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 10
+HP: 99
+Coins: 179
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 19
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 10
+HP: 100
+Coins: 160
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 33
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 10
+HP: 100
+Coins: 193
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 512
+Cost: 4
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 10
+HP: 100
+Coins: 189
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 10
+HP: 100
+Coins: 189
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 10
+HP: 100
+Coins: 176
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 23
+HP: 100
+Coins: 163
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 7
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 23
+HP: 100
+Coins: 156
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: 7
+Level: 2
+Force: 23
+HP: 100
+Coins: 158
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 20
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 3
+Force: 23
+HP: 100
+Coins: 178
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: 7
+Level: 3
+Force: 23
+HP: 100
+Coins: 177
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 8100
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 4
+Force: 23
+HP: 100
+Coins: 8277
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: 7
+Level: 4
+Force: 23
+HP: 100
+Coins: 8292
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 23
+HP: 100
+Coins: 8311
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 201
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 23
+HP: 100
+Coins: 8512
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 16
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 23
+HP: 100
+Coins: 8496
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 19
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 24
+HP: 100
+Coins: 8477
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 10
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 24
+HP: 100
+Coins: 8467
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 28
+HP: 100
+Coins: 8455
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 19
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 28
+HP: 100
+Coins: 8436
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 33
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 28
+HP: 100
+Coins: 8469
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 512
+Cost: 4
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 28
+HP: 100
+Coins: 8465
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 28
+HP: 100
+Coins: 8465
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 28
+HP: 100
+Coins: 8452
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 41
+HP: 100
+Coins: 8439
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 7
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 41
+HP: 100
+Coins: 8432
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: 7
+Level: 5
+Force: 41
+HP: 100
+Coins: 8434
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 20
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 6
+Force: 41
+HP: 100
+Coins: 8454
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: 7
+Level: 6
+Force: 41
+HP: 100
+Coins: 8453
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 8100
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 7
+Force: 41
+HP: 100
+Coins: 16553
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 15
+------------------------
+Player Details:
+Name: 7
+Level: 7
+Force: 41
+HP: 100
+Coins: 16568
+------------------------
+Card drawn:
+Type: Battle
+Force: 2
+Profit (on win): 19
+Damage taken (on loss): 0
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 41
+HP: 100
+Coins: 16587
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 201
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 41
+HP: 100
+Coins: 16788
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 3
+Cost: 16
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 41
+HP: 100
+Coins: 16772
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 1
+Cost: 19
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 42
+HP: 100
+Coins: 16753
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 10
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 42
+HP: 100
+Coins: 16743
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 4
+Cost: 12
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 46
+HP: 100
+Coins: 16731
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 13
+Cost: 19
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 46
+HP: 100
+Coins: 16712
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 33
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 46
+HP: 100
+Coins: 16745
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 512
+Cost: 4
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 46
+HP: 100
+Coins: 16741
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 46
+HP: 100
+Coins: 16741
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 5
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 46
+HP: 100
+Coins: 16728
+------------------------
+Card drawn:
+Type: Buff
+Buff points: 13
+Cost: 13
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 59
+HP: 100
+Coins: 16715
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 7
+Cost: 7
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 59
+HP: 100
+Coins: 16708
+------------------------
+Card drawn:
+Type: Treasure
+Coins: 2
+------------------------
+Player Details:
+Name: 7
+Level: 8
+Force: 59
+HP: 100
+Coins: 16710
+------------------------
+Card drawn:
+Type: Battle
+Force: 8
+Profit (on win): 20
+Damage taken (on loss): 9
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 9
+Force: 59
+HP: 100
+Coins: 16730
+------------------------
+Card drawn:
+Type: Heal
+Heal points: 19
+Cost: 1
+------------------------
+Player Details:
+Name: 7
+Level: 9
+Force: 59
+HP: 100
+Coins: 16729
+------------------------
+Card drawn:
+Type: Battle
+Force: 20
+Profit (on win): 8100
+Damage taken (on loss): 17
+------------------------
+The player defeated the monster and won the loot! Hooray!
+------------------------
+Player Details:
+Name: 7
+Level: 10
+Force: 59
+HP: 100
+Coins: 24829
+------------------------
+The player has won! :D
