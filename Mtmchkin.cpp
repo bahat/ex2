@@ -6,9 +6,14 @@
 Mtmchkin::Mtmchkin(const char *playerName, const Card *cardsArray, int numOfCards):
         m_player(playerName),
         m_numOfCards(numOfCards),
-        m_cardsArray(cardsArray),
         m_currentCardIndex(0)
 {
+    m_cardsArray=cardsArray;
+}
+
+Mtmchkin::~Mtmchkin()
+{
+    delete[] m_cardsArray;
 }
 
 void Mtmchkin::playNextCard()
