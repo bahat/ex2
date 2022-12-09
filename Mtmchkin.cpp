@@ -6,33 +6,36 @@
 Mtmchkin::Mtmchkin(const char *playerName, const Card *cardsArray, int numOfCards):
         m_player(playerName),
         m_numOfCards(numOfCards),
+        m_cardsArray(cardsArray),
         m_currentCardIndex(0)
 {
-    m_cardsArray=cardsArray;
+    Card* tempDeck = new Card[numOfCards];
+    for(int i=0;i<numOfCards;i++)
+    {
+        tempDeck[i] = cardsArray[i];
+    }
+    m_cardsArray = tempDeck;
 }
 
 Mtmchkin::~Mtmchkin()
 {
-    delete[] m_cardsArray;
+    delete []m_cardsArray;
 }
 
 void Mtmchkin::playNextCard()
 {
     if(!isOver())
     {
-        if(m_currentCardIndex==m_numOfCards)
+        if(m_currentCardIndex>=m_numOfCards)
         {
             m_currentCardIndex=0;
         }
-        getCurrentCard().printInfo();
-        getCurrentCard().applyEncounter(m_player);
+        Card currentCard = m_cardsArray[m_currentCardIndex];
+        currentCard.Card::printInfo();
+        currentCard.applyEncounter(m_player);
         m_player.printInfo();
         m_currentCardIndex++;
     }
-}
-
-Card Mtmchkin::getCurrentCard() {
-    return m_cardsArray[m_currentCardIndex];
 }
 
 bool Mtmchkin::isOver() const
